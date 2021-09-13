@@ -8,5 +8,6 @@ multiplicacion = m1 * m2
 print("Este programa acaba de hacer algunas operaciones")
 print('la suma dio como resultado: ')
 print(suma)
-print('la resta dio como resultado: ' + resta) # la resta dio como resultado: -1.5
-print('la multiplicacion dio como resultado: ' + multiplicacion)
+print('la resta dio como resultado: ', resta) # la resta dio como resultado: -1.5
+print('la multiplicacion dio como resultado: ', multiplicacion)
+print(m2, "/", m1, " = ", m2/m1)
