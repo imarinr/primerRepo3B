@@ -4,7 +4,7 @@
 # 3. Imprimir "Que operacion quieres hacer?"
 print("Que operacion quieres hacer?")
 # 4. entrada = entrada de usuario
-entrada = input()
+operacion = input()
 # 5. Imprimir "dame el primer numero"
 print("dame el primer numero")
 # 6. num1 = entrada de usuario
@@ -15,11 +15,11 @@ print("dame el segundo numero")
 num2 = float(input())
 # 9. Si entrada = "suma" entonces,
 resultado = 0
-if entrada == "suma":
+if operacion == "suma":
   resultado = num1 + num2 # 9.1. resultado = num1 + num2,
-else:
-  resultado = num1 - num2# 9.2. de lo contrario, resultado = num1 - num2
+elif operacion == "resta":# antes: else:
+  resultado = num1 - num2 # 9.2. de lo contrario, si operacion es 'resta', resultado = num1 - num2
 # 10. Imprimir "el resultado de la " entrada "es " resultado
-print("El resultado de la ", entrada, " es ", resultado)
+print("El resultado de la ", operacion, " es ", resultado)
 # 11. Fin
 
