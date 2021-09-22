@@ -1,4 +1,4 @@
-
+# Autor: Ivan Marin
 # 1. Inicio
 # 2. Definir resultado, entrada, num1, num2
 # 3. Imprimir "Que operacion quieres hacer?"
