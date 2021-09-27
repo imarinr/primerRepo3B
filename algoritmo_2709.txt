@@ -1,0 +1,9 @@
+Algoritmo para preparar cereal en el desayuno
+Ivan Marin
+
+1. Inicio
+2
+3
+4
+
+5. Fin
