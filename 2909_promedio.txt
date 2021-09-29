@@ -1,0 +1,33 @@
+29 de septiembre de 2021
+Ivan Marin, 3B
+Crear un algoritmo para obtener el promedio de 5 números.
+Pensémoslo ya en forma de un programa.
+La salida o lo que nos muestra la consola debería ser lo siguiente:
+Dame el numero 1:
+7
+Dame el numero 2:
+7
+Dame el numero 3:
+7
+Dame el numero 4:
+7
+Dame el numero 5:
+7
+Dados los datos, el promedio seria: 7
+
+Algoritmo
+1. Inicio
+2. Definir promedio, numero1, numer2, numero3, numero4, numero5
+3. Imprimir "Dame el numero 1:"
+4. Hacer numero1 = entrada del usuario
+5. Imprimir "Dame el numero 2:"
+6. Hacer numero2 = entrada del usuario
+7. Imprimir "Dame el numero 3:"
+8. Hacer numero3 = entrada del usuario
+9. Imprimir "Dame el numero 4:"
+10. Hacer numero4 = entrada del usuario
+11. Imprimir "Dame el numero 5:"
+12. Hacer numero5 = entrada del usuario
+13. Hacer promedio = (numero1 + numero2 + numero3 + numero4 + numero5)/ 5
+14. Imprimir "Dados los datos, el promedio seria: " promedio
+15. Fin
