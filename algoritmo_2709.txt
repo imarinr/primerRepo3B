@@ -2,8 +2,10 @@ Algoritmo para preparar cereal en el desayuno
 Ivan Marin
 
 1. Inicio
-2
-3
-4
-
-5. Fin
+2. Conseguir un plato, una cuchara, una manzana, un cuchillo,
+leche, cereal.
+3. Picar la manzana en cubitos
+4. Colocar en el plato la fruta picada y cereal
+5. Agregar leche
+6. Poner la cuchara en el plato
+7. Fin
